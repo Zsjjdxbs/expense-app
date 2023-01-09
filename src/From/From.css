@@ -1,0 +1,74 @@
+#board{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+
+
+
+
+.frombg{
+    width: 1030px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: aqua;
+}
+.text{
+    margin-left: 450px;
+ 
+}
+.sun{
+    margin-left: 10px;
+}
+#date{
+    width: 300px;
+    margin-left: 10px;
+}
+#number1{
+    width: 300px;
+    margin-left: 10px;
+}
+#number{
+    margin-left: 260px;
+    width: 300px;
+}
+.button2{
+    margin-left: 600px;
+    height: 40px;
+    width: 100px;
+    color: white;
+    background-color: black;
+    
+}
+.button1{
+    height: 40px;
+    width: 100px;
+    color: white;
+    background-color: black;
+    
+}
+#span{
+    width: 60px;
+}
+.formbutton{
+    width: 1030px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: aqua;
+    margin-left: 200px;
+    margin-top: 100px;
+
+
+}
+.buttonstyle{
+    padding:5px;
+    margin-left:150px;
+    margin-top:80px;
+    color: white;
+    background-color: aqua;
+    height: 40px;
+    width: 800px;
+    border-color:aqua  ;
+}

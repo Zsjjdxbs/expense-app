@@ -1,0 +1,133 @@
+/* .navin{
+  text-align: center;
+}
+.App{
+  background-color: bisque;
+}
+
+
+.y{
+  text-align: center;
+  background-color: aqua;
+}
+.raj{
+  color: yellow;
+}
+.image1{
+  width: 400px;
+  height: 300px;
+  padding-right: 100px;
+
+}
+.image2{
+  width: 400px;
+  height: 300px;
+  padding-right: 100px; */
+/* } */
+
+
+
+/* ---------------- */
+@media screen and (max-width: 480px) {
+  .app{
+        /* background-color: blanchedalmond; */
+        /* text-align: justify; */
+        display: flex;
+        background-color: aqua;
+}
+  
+}
+
+.app{
+  background-color: blueviolet;
+ display: flex;
+ width: 80%;
+ margin: auto;
+ height: 8rem;
+ 
+ padding-bottom: 10px;
+ 
+
+ 
+
+
+}
+.ww{
+  background-color: rgb(149, 118, 178);
+ display: flex;
+ padding: 20px;
+
+}
+.dd{
+background-color: rgb(173, 218, 26);
+display: flex;
+padding: 20px;}
+.raj{
+  width: 100px;
+  height: 80px;
+  background-color: aquamarine;
+  color: rgb(20, 18, 15);
+  text-align: center;
+  border: 2px solid;
+  border-radius: 8px;
+  margin-left:4px;
+  margin-top: 10px;
+  font-size: 10px;
+  padding-bottom:40px ;
+  
+  /* padding-top: 70PX; */
+  
+  
+
+ 
+}
+
+/* #gg{
+    display: flex;
+} */
+
+.navin{
+  width: 150px;
+  height: 80px;
+  background-color: aquamarine;
+  color: rgb(20, 18, 15);
+  text-align: center;
+  border: 2px solid;
+  border-radius: 8px;
+  margin-left: 90px;
+  margin-top: 30px;
+  position: absolute;
+  margin-left:678px;
+  font-size: 13px;
+  
+  
+  
+}
+.kk{
+  margin-left: 250px;
+  margin-top: 60px;
+}
+#sri{
+   
+  background-color: brown;
+  width: 70%;
+  /* margin-right: 100px; */
+  margin-top: 200px;
+  margin-left: 200px;
+  /* margin-top: 400px; */
+  padding-top: 30px;
+
+}
+
+
+
+
+.pp{
+  background-color:red;
+}
+#Display{
+ background-color: rgb(29, 230, 106);
+ width: 50%;
+ height: 50%;
+ border: 2px solid yellow;
+}
