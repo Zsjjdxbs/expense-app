@@ -4,7 +4,6 @@ import './components/Expense/App.css'
 import Exit from './components/Ui/Exit';
 import NewExpenseFrom from './From/NewExpenseFrom';
 
-//sample
 
 function AppBoy(){
  const DummyExpense=[{id:Math.random(), amount:"rs.2000",date:new Date(),loan:"Bank loan"},
